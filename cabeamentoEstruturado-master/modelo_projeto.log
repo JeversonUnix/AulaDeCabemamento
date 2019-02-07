@@ -1,33 +1,27 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.7)  7 FEB 2019 11:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6975) (preloaded format=pdflatex 2019.2.7)  7 FEB 2019 21:32
 entering extended mode
 **./modelo_projeto.tex
 (modelo_projeto.tex
 LaTeX2e <2018-12-01>
-
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/koma-script\scrartcl.c
-ls
+(/home/apollo/.miktex/texmfs/install/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2019/02/01 v3.26b KOMA-Script document class (article)
 
-
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/koma-script\scrkbase.s
-ty
+(/home/apollo/.miktex/texmfs/install/tex/latex/koma-script/scrkbase.sty
 Package: scrkbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-dependent 
 basics and keyval usage)
 
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/koma-script\scrbase.st
-y
+(/home/apollo/.miktex/texmfs/install/tex/latex/koma-script/scrbase.sty
 Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent
  basics and keyval usage)
- ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+
+(/home/apollo/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/koma-script\scrlfile.s
-ty
+(/home/apollo/.miktex/texmfs/install/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
 )))
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/koma-script\tocbasic.s
-ty
+(/home/apollo/.miktex/texmfs/install/tex/latex/koma-script/tocbasic.sty
 Package: tocbasic 2019/02/01 v3.26b KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip41
 \scr@dte@tocline@numbox=\box27
@@ -44,13 +38,11 @@ Class scrartcl Info: You've used standard option `onecolumn'.
 Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
 ine 2162.
 
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/koma-script\scrsize12p
-t.clo
+(/home/apollo/.miktex/texmfs/install/tex/latex/koma-script/scrsize12pt.clo
 File: scrsize12pt.clo 2019/02/01 v3.26b KOMA-Script font size class option (12p
 t)
 )
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/koma-script\typearea.s
-ty
+(/home/apollo/.miktex/texmfs/install/tex/latex/koma-script/typearea.sty
 Package: typearea 2019/02/01 v3.26b KOMA-Script package (type area)
 \ta@bcor=\skip42
 \ta@div=\count80
@@ -133,12 +125,11 @@ Package tocbasic Info: omitting babel extension for `lot'
 \c@table=\count88
 Class scrartcl Info: Redefining `\numberline' on input line 5957.
 \bibindent=\dimen102
-) (C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/lipsum\lipsum.sty
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/l3kernel\expl3.sty
+) (/home/apollo/.miktex/texmfs/install/tex/latex/lipsum/lipsum.sty
+(/home/apollo/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty
 Package: expl3 2019-01-28 L3 programming layer (loader) 
 
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/l3kernel\expl3-code.te
-x
+(/home/apollo/.miktex/texmfs/install/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2019-01-28 L3 programming layer (code)
 \c_max_int=\count89
 \l_tmpa_int=\count90
@@ -288,12 +279,11 @@ Package: expl3 2019-01-28 L3 programming layer (code)
 \l__seq_internal_a_int=\count171
 \l__seq_internal_b_int=\count172
 )
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/l3kernel\l3pdfmode.def
+(/home/apollo/.miktex/texmfs/install/tex/latex/l3kernel/l3pdfmode.def
 File: l3pdfmode.def 2019-01-28 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count173
 ))
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/l3packages/xparse\xpar
-se.sty
+(/home/apollo/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2018-10-17 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count174
 \g__xparse_grabber_int=\count175
@@ -303,37 +293,44 @@ Package: xparse 2018-10-17 L3 Experimental document command parser
 )
 Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
 
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/lipsum\lipsum.ltd.tex
+(/home/apollo/.miktex/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex
 File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
-)) ("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
+))
+(/home/apollo/.miktex/texmfs/install/tex/generic/babel/babel.sty
 Package: babel 2018/11/13 3.27 The Babel package
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
+(/home/apollo/.miktex/texmfs/install/tex/generic/babel/switch.def
 File: switch.def 2018/11/13 3.27 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/arabi\bblopts.cfg
+(/home/apollo/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/babel-portuges\portuge
-s.ldf
+(/home/apollo/.miktex/texmfs/install/tex/latex/babel-portuges/portuges.ldf
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
- ("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+
+(/home/apollo/.miktex/texmfs/install/tex/generic/babel/babel.def
 File: babel.def 2018/11/13 3.27 Babel common definitions
 \babel@savecnt=\count179
 \U@D=\dimen135
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+(/home/apollo/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
 \bbl@dirlevel=\count180
 )
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language `Portuguese' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 55.
+
+\l@portuges = a dialect from \language0
 \l@brazil = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
-))
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/microtype\microtype.st
-y
+)) (/home/apollo/.miktex/texmfs/install/tex/latex/microtype/microtype.sty
 Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
 \MT@toks=\toks15
 \MT@count=\count181
@@ -342,8 +339,7 @@ LaTeX Info: Redefining \textls on input line 793.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
 \MT@listname@count=\count182
 
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/microtype\microtype-pd
-ftex.def
+(/home/apollo/.miktex/texmfs/install/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 913.
@@ -352,27 +348,27 @@ LaTeX Info: Redefining \lslig on input line 913.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/microtype\microtype.cf
-g
+(/home/apollo/.miktex/texmfs/install/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
-)) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+))
+(/home/apollo/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip64
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+(/home/apollo/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+(/home/apollo/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen137
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+(/home/apollo/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen138
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+(/home/apollo/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count183
@@ -413,14 +409,14 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+(/home/apollo/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
+(/home/apollo/.miktex/texmfs/install/tex/latex/amscls/amsthm.sty
 Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks21
 \thm@bodyfont=\toks22
@@ -432,30 +428,30 @@ Package: amsthm 2017/10/31 v2.20.4
 \thm@headsep=\skip69
 \dth@everypar=\toks26
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+(/home/apollo/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+(/home/apollo/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+(/home/apollo/.miktex/texmfs/install/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+(/home/apollo/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+(/home/apollo/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen146
 \Gin@req@width=\dimen147
 )
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/xcolor\xcolor.sty
+(/home/apollo/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+(/home/apollo/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -469,13 +465,13 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/xcolor\svgnam.def
+(/home/apollo/.miktex/texmfs/install/tex/latex/xcolor/svgnam.def
 File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
 ))
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/caption\caption.sty
+(/home/apollo/.miktex/texmfs/install/tex/latex/caption/caption.sty
 Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/caption\caption3.sty
+(/home/apollo/.miktex/texmfs/install/tex/latex/caption/caption3.sty
 Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen148
@@ -489,42 +485,43 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 Package caption Info: KOMA-Script document class.
 \c@caption@flags=\count195
 \c@ContinuedFloat=\count196
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf.sty"
+)
+(/home/apollo/.miktex/texmfs/install/tex/latex/oberdiek/epstopdf.sty
 Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+(/home/apollo/.miktex/texmfs/install/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+(/home/apollo/.miktex/texmfs/install/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+(/home/apollo/.miktex/texmfs/install/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+(/home/apollo/.miktex/texmfs/install/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+(/home/apollo/.miktex/texmfs/install/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+(/home/apollo/.miktex/texmfs/install/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+(/home/apollo/.miktex/texmfs/install/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+(/home/apollo/.miktex/texmfs/install/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+(/home/apollo/.miktex/texmfs/install/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 ))))
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
+(/home/apollo/.miktex/texmfs/install/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+(/home/apollo/.miktex/texmfs/install/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -539,7 +536,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ))
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/subfig\subfig.sty
+(/home/apollo/.miktex/texmfs/install/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 \c@KVtest=\count197
 \sf@farskip=\skip70
@@ -555,7 +552,7 @@ Package: subfig 2005/06/28 ver: 1.3 subfig package
 \sf@top=\skip73
 \sf@bottom=\skip74
 )
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/booktabs\booktabs.sty
+(/home/apollo/.miktex/texmfs/install/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen156
 \lightrulewidth=\dimen157
@@ -574,15 +571,16 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@thisruleclass=\count272
 \@lastruleclass=\count273
 \@thisrulewidth=\dimen168
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\fix-cm.sty"
+)
+(/home/apollo/.miktex/texmfs/install/tex/latex/base/fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+(/home/apollo/.miktex/texmfs/install/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
+(/home/apollo/.miktex/texmfs/install/tex/latex/base/ts1enc.dfu
 File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -655,19 +653,19 @@ File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+266A (decimal 9834)
    defining Unicode char U+FEFF (decimal 65279)
 )))
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+(/home/apollo/.miktex/texmfs/install/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks27
 \inpenc@posthook=\toks28
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+(/home/apollo/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.sty"
+(/home/apollo/.miktex/texmfs/install/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+(/home/apollo/.miktex/texmfs/install/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count274
@@ -683,43 +681,42 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen176
 \Gm@dimlist=\toks29
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/datetime\datetime.sty
+(/home/apollo/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
+(/home/apollo/.miktex/texmfs/install/tex/latex/datetime/datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
 
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/etoolbox\etoolbox.sty
+(/home/apollo/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count277
-) (C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/fmtcount\fmtcount.st
-y
+)
+(/home/apollo/.miktex/texmfs/install/tex/latex/fmtcount/fmtcount.sty
 Package: fmtcount 2017/12/24 v3.05
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+
+(/home/apollo/.miktex/texmfs/install/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty"
+(/home/apollo/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.tex"
-("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.tex"
+(/home/apollo/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+(/home/apollo/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks30
 \XKV@tempa@toks=\toks31
 )
 \XKV@depth=\count278
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/fmtcount\fcprefix.sty
+(/home/apollo/.miktex/texmfs/install/tex/latex/fmtcount/fcprefix.sty
 Package: fcprefix 2012/09/28
 
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/fmtcount\fcnumparser.s
-ty
+(/home/apollo/.miktex/texmfs/install/tex/latex/fmtcount/fcnumparser.sty
 Package: fcnumparser 2017/06/15
 \fc@digit@counter=\count279
 ))
 \c@padzeroesN=\count280
 \fc@tmpcatcode=\count281
 
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/fmtcount\fc-portuges.d
-ef
+(/home/apollo/.miktex/texmfs/install/tex/latex/fmtcount/fc-portuges.def
 File: fc-portuges.def 2017/12/26
 )
 \@DT@modctr=\count282
@@ -730,8 +727,7 @@ File: fc-portuges.def 2017/12/26
 \@DT@loopN=\count287
 \@DT@X=\count288
 )
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/datetime\datetime-defa
-ults.sty
+(/home/apollo/.miktex/texmfs/install/tex/latex/datetime/datetime-defaults.sty
 Package: datetime-defaults 2013/09/10
 )
 \@day=\count289
@@ -754,8 +750,7 @@ put line 308.
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks32
 \dt@b=\toks33
-)
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/sectsty\sectsty.sty
+) (/home/apollo/.miktex/texmfs/install/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
@@ -773,7 +768,7 @@ Class scrartcl Warning: Usage of package `fancyhdr' together
 (scrartcl)              Nevertheless, using requested
 (scrartcl)              package `fancyhdr' on input line 48.
 
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/fancyhdr\fancyhdr.sty
+(/home/apollo/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip75
@@ -785,14 +780,14 @@ s
 \f@nch@O@erf=\skip81
 \f@nch@O@olf=\skip82
 \f@nch@O@orf=\skip83
-) (C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/lastpage\lastpage.st
-y
+)
+(/home/apollo/.miktex/texmfs/install/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/lettrine\lettrine.sty
+(/home/apollo/.miktex/texmfs/install/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2018-08-28 v2.21 (Daniel Flipo)
 
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/generic/minifp\minifp.sty
+(/home/apollo/.miktex/texmfs/install/tex/generic/minifp/minifp.sty
 Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
 -based programing language.
 \MFP@loopctr=\count304
@@ -824,13 +819,14 @@ Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
 \LettrineDepth=\dimen195
 
 Loading lettrine.cfg
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/lettrine\lettrine.cfg)
-) (C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/titling\titling.sty
+(/home/apollo/.miktex/texmfs/install/tex/latex/lettrine/lettrine.cfg))
+(/home/apollo/.miktex/texmfs/install/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip84
 \thanksmargin=\skip85
 \droptitle=\skip86
-) (modelo_projeto.aux)
+)
+(modelo_projeto.aux)
 \openout1 = `modelo_projeto.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
@@ -858,11 +854,11 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/microtype\mt-cmr.cfg
+(/home/apollo/.miktex/texmfs/install/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/context/base\supp-pdf.mkii
+(/home/apollo/.miktex/texmfs/install/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count309
 \scratchdimen=\dimen196
@@ -919,7 +915,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             ! on input line 122.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 123.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1phv.fd"
+(/home/apollo/.miktex/texmfs/install/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -943,8 +939,7 @@ Package pdftex.def Info: utfpr.jpeg  used on input line 143.
  [1
 
 
-{C:/Users/suporteti/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./utfpr
-.jpeg>]
+{/home/apollo/.miktex/texmfs/data/pdftex/config/pdftex.map} <./utfpr.jpeg>]
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
@@ -957,22 +952,24 @@ Package tocbasic Info: character protrusion at lof deactivated on input line 15
 1.
 (modelo_projeto.lof
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+
+(/home/apollo/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/microtype\mt-msa.cfg
+(/home/apollo/.miktex/texmfs/install/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 2.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+(/home/apollo/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(C:\Users\suporteti\AppData\Roaming\MiKTeX\2.9\tex/latex/microtype\mt-msb.cfg
+(/home/apollo/.miktex/texmfs/install/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ))
 \tf@lof=\write3
 \openout3 = `modelo_projeto.lof'.
+
 
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
@@ -994,13 +991,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 159.
 
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+
+(/home/apollo/.miktex/texmfs/install/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 159.
-
-[2
+ [2
 
 ]
 
@@ -1021,7 +1018,7 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 16
 
 ]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 191.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 177.
  [4
 
 ] (tab1.tex
@@ -1034,13 +1031,17 @@ File: fig1.png Graphic file (type png)
 <use fig1.png>
 Package pdftex.def Info: fig1.png  used on input line 9.
 (pdftex.def)             Requested size: 121.65234pt x 84.715pt.
-) [5 <./fig1.png>]
-Overfull \hbox (84.47485pt too wide) in paragraph at lines 251--256
-[]\OT1/cmr/m/n/12 (-20) Segue uma relac~ao de fer-ra-men-tas: http://asana.com
-/, https://trello.com/, http://www.ganttproject.biz/,
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [5]
+Overfull \hbox (84.47485pt too wide) in paragraph at lines 257--262
+[]\OT1/cmr/m/n/12 (-20) Segue uma relac~ao de ferramentas: http://asana.com/, 
+https://trello.com/, http://www.ganttproject.biz/,
  []
 
-[6] (modelo_projeto.bbl
+[6 <./fig1.png>] (modelo_projeto.bbl
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
@@ -1052,44 +1053,46 @@ ne 1.
 ) [7] (tab2.tex)
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 335.
+Package pdftex.def Info: fig1.png  used on input line 341.
 (pdftex.def)             Requested size: 455.24417pt x 317.02682pt.
 <fig2.png, id=42, 214.8025pt x 516.93124pt>
 File: fig2.png Graphic file (type png)
 <use fig2.png>
-Package pdftex.def Info: fig2.png  used on input line 343.
+Package pdftex.def Info: fig2.png  used on input line 349.
 (pdftex.def)             Requested size: 214.80197pt x 516.92998pt.
 <fig3.jpg, id=43, 533.5935pt x 361.35pt>
 File: fig3.jpg Graphic file (type jpg)
 <use fig3.jpg>
-Package pdftex.def Info: fig3.jpg  used on input line 352.
+Package pdftex.def Info: fig3.jpg  used on input line 358.
 (pdftex.def)             Requested size: 672.24995pt x 455.24417pt.
  
 AED: lastpage setting LastPage
 [8] [9] [10 <./fig2.png>] [11 <./fig3.jpg>] (modelo_projeto.aux) ) 
 Here is how much of TeX's memory you used:
- 21042 strings out of 492946
- 378052 string characters out of 3135516
- 683528 words of memory out of 3000000
- 24595 multiletter control sequences out of 15000+200000
- 555685 words of font info for 109 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
+ 21047 strings out of 494865
+ 378229 string characters out of 3178258
+ 679795 words of memory out of 3000000
+ 24352 multiletter control sequences out of 15000+200000
+ 555734 words of font info for 110 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
  54i,13n,77p,9095b,477s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program F
-iles/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/u
-rw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uh
-vbo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on modelo_projeto.pdf (11 pages, 1938434 bytes).
+{/home/apollo
+/.miktex/texmfs/install/fonts/enc/dvips/base/8r.enc}</home/apollo/.miktex/texmf
+s/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></home/apollo/.miktex/texmf
+s/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/apollo/.miktex/texmf
+s/install/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></home/apollo/.miktex/tex
+mfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/apollo/.miktex/texm
+fs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/apollo/.miktex/texmf
+s/install/fonts/type1/public/amsfonts/cm/cmss17.pfb></home/apollo/.miktex/texmf
+s/install/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></home/apollo/.miktex/tex
+mfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/apollo/.miktex/tex
+mfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></home/apollo/.miktex/tex
+mfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb></home/apollo/.miktex/tex
+mfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb></home/apollo/.miktex/tex
+mfs/install/fonts/type1/urw/helvetic/uhvb8a.pfb></home/apollo/.miktex/texmfs/in
+stall/fonts/type1/urw/helvetic/uhvbo8a.pfb></home/apollo/.miktex/texmfs/install
+/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on modelo_projeto.pdf (11 pages, 1939073 bytes).
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
